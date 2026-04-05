@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365212697513",
+    "project_id": "convox-backend",
+    "storage_bucket": "convox-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365212697513:android:63f05f0438e6f37b557ab8",
+        "android_client_info": {
+          "package_name": "com.example.convox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDurD9KMC74eWHlo7kf2TtbhdrwoCr_-Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
